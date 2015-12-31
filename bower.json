@@ -1,0 +1,27 @@
+{
+  "name": "Leaflet.marker-tool",
+  "homepage": "https://github.com/progknife/Leaflet.marker-tool",
+  "authors": [
+    "Karl Manuzon <karl.manuzon@gmail.com>"
+  ],
+  "description": "Adds control toolbar of multiple markers for Leaflet.",
+  "main": "dist/leaflet.marker-tool.js",
+  "keywords": [
+    "leaflet",
+    "marker",
+    "map"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.7",
+    "Leaflet.awesome-markers": "~2.0.2",
+    "font-awesome": "~4.5.0"
+  }
+}
